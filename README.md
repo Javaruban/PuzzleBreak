@@ -1,0 +1,2 @@
+# PuzzleBreak
+Puzzle Break is a Sliding Puzzle Game. Contains Fun Play option where you can choose photos from gallery or camera and play. Contains 12 Levels, Where you need to complete previous levels to unlock next level. Puzzle Break has the option of choosing the difficulty mode. Completing each level unlocks facts about each country, Total facts unlocked depends upon your score. You can also share the unlocked facts with your friends using Social Networking sites, Messages, E-Mail, etc.
